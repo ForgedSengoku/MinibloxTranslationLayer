@@ -1,0 +1,3 @@
+# Security Policy
+
+die now
